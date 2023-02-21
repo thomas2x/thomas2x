@@ -5,7 +5,7 @@ I got started out in tech in 2019 as a Cyber Security Engineer coop at Wayfair. 
 
 My current focus is on the basics of html, css, and javascript. 
 
-Outside of work and school, I'm an arduino hobbyist and I'm excited to say I'm working on a compost monitoring system! 
+Outside of work and school, I enjoy camping and running :) 
 
 
 <!---
